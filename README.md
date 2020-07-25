@@ -27,3 +27,5 @@ The program was originally written in Fortran back around 1980,
 then translated to portable C around 1990.
 I have sometimes used it as a speed benchmark as I have gone through different computers.
 It still works but may need a warning suppressed for old deprecated stdio functions.
+
+No license, do whatever you want with it.

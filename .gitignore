@@ -354,3 +354,6 @@ MigrationBackup/
 ...that monop.c is a hard link to the one in amiga
 LICENSE
 LICENSE
+Monopoly.sln
+Monopoly.vcxproj
+LICENSE
