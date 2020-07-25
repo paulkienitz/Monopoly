@@ -1,0 +1,62 @@
+Square                  Probability    Cost      Rent      Bargain rating
+======                  ===========    ====      ====      ==============
+Mediterranean           0.858400        310       250      0.692258
+Community Chest 1       0.752840       
+Baltic                  0.868080        310       450      1.260116
+Income Tax              0.938680       
+Reading R.R.            1.177360        200       200      1.177360
+Oriental                0.908720        350       550      1.427989
+Chance 1                0.343760       
+Vermont                 0.935520        350       550      1.470103
+Connecticutt            0.923280        370       600      1.497211
+Just Visiting           1.283600       
+St. Charles             1.073760        640       750      1.258312
+Electric Co.            1.091800        150        70      0.509507
+States                  0.929600        640       750      1.089375
+Virginia                1.021080        660       900      1.392382
+Pennsylvania R.R.       1.125560        200       200      1.125560
+St. James               1.138960        680       950      1.591194
+Community Chest 2       0.998840       
+Tennessee               1.189160        680       950      1.661327
+New York                1.196200        700      1000      1.708857
+Free Parking            1.186600       
+Kentucky                1.117440        970      1050      1.209600
+Chance 2                0.496240       
+Indiana                 1.090000        970      1050      1.179897
+Illinois                1.269160        990      1100      1.410178
+B&O R.R.                1.219080        200       200      1.219080
+Atlantic                1.081240       1010      1150      1.231115
+Ventnor                 1.078120       1010      1150      1.227562
+Water Works             1.130360        150        70      0.527501
+Marvin Gardens          1.042480       1030      1200      1.214540
+Go To Jail              1.059440       
+Pacific                 1.074760       1300      1275      1.054092
+North Carolina          1.065920       1300      1275      1.045421
+Community Chest 3       0.949960       
+Pennsylvania            1.015440       1320      1400      1.076982
+Short Line R.R.         0.972920        200       200      0.972920
+Chance 3                0.350960       
+Park Place              0.875280       1350      1500      0.972533
+Luxury Tax              0.878880       
+Boardwalk               1.061200       1400      2000      1.516000
+Go                      1.229320       
+
+
+These figures are most accurate for a game with 8 players.
+In 1000000 moves, the player went to jail 39062 times,
+escaping with a GOOJF card 23.34494% of the time.
+He paid double at railroads 3.52923% of the time.
+
+Monopoly          Bargain rating
+========          ==============
+Purple            0.976187
+Light Blue        1.465701
+Magenta           1.248192
+Orange            1.654327
+Red               1.267539
+Yellow            1.224341
+Green             1.058924
+Dark Blue         1.249207
+Utilities         0.518504
+Railroads         1.123730
+

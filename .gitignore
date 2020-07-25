@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+...that monop.c is a hard link to the one in amiga
+LICENSE
+LICENSE
