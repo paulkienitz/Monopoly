@@ -1,5 +1,5 @@
-## Monopoly
-# A simulator of play on a Monopoly board, to analyze good buys
+# Monopoly
+### A simulator of play on a Monopoly board, to analyze good buys
 
 In the board game Monopoly, all monopolies are good, but some are better than others.
 This is true not just because they have different costs and payouts,
