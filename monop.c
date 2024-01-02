@@ -59,7 +59,7 @@ short memcount[10] = { 2, 3, 3, 3, 3, 3, 3, 2, 2, 4 };
 
 str names[40] = {
     "Mediterranean", "Community Chest 1", "Baltic", "Income Tax",
-    "Reading R.R.", "Oriental", "Chance 1", "Vermont", "Connecticutt",
+    "Reading R.R.", "Oriental", "Chance 1", "Vermont", "Connecticut",
     "Just Visiting", "St. Charles", "Electric Co.", "States", "Virginia",
     "Pennsylvania R.R.", "St. James", "Community Chest 2", "Tennessee",
     "New York", "Free Parking", "Kentucky", "Chance 2", "Indiana",
